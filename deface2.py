@@ -1,8 +1,8 @@
 <head>
 <script>
 alert("YOUR SYSTEM IS HACKED ");
-alert("MAAF GUA TELAH LANCANG ");
-alert("BUKANNYA SOMBONG TAPI GUA CUMA MAU PAMER SKIL AJA:v ");
+alert("MAKANNYA JAN KACANNGIN GW_- ");
+alert(" GW KETIKA DI KACNGIN >>>[RASANYA AJG BANGET]<<<  ");
 </script>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -552,14 +552,14 @@ setInterval(flicker, 100);
  
 <br>
  
-<h1>Hacked By Main IT</h1>
+<h1>Hacked By MR ICE zero1 Four</h1>
  
  
 <div id="matrix" class="auto-style9">No Sytem Is Safe!!!</div><br>
 <font face="courier new" color="white" size"28" >Dear Admin !!! Sistem Keamanan Website Mu Terlalu Lemah, Tolong Tingkatkan Lagi Sistem Keamanan Website Mu</F>
 <p>
   <font face="courier new color="white" size"28">Thanks To:
- <font face="courier new" color="red" size"28" > <marquee>Subscriber - All member Main IT official - My Friend - Mantan</marquee>
+ <font face="courier new" color="red" size"28" > <marquee> Allah swt - GW G ADA TEMEN:( - (NOT HAVE) Friend - DAHLAH MALES</marquee>
  </F>
 </p>
  
